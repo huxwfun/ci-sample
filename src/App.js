@@ -20,7 +20,7 @@ function App() {
           const d = await dog()
           setUrl(d)
         }}>
-          获取随机相片
+          获取随机相
         </Button>
       </header>
     </div>
